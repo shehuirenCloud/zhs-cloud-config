@@ -1,2 +1,2 @@
-service:
-    port: 123456
+config:
+    impl: "我就是用来测试一下，这是第一个版本"
